@@ -2,7 +2,7 @@
 <h1 align="center">Hey!👋 I am Aditya Sharma🖤</h1>
 <h3 align="center">✨A passionate 🖥️ MERN Stack Developer 🖥️ from India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce60865e799b446c0e963a3dd8fb68d239707237c60604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
 
@@ -20,13 +20,18 @@
 
 - ⚡ Fun fact **"Meet the coding maestro – a leader fueled by fiery code and a heart that orchestrates kindness in binary beats!"**
 
-<img align="center" alt="coding" width="1200" src="https://user-images.githubusercontent.com/76038190/212750147-854a394f-fee9-6080-9770-78a4b7ece53f.gif">
+<img align="center" alt="coding" width="1200" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adityasharma0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adityasharma0001/" height="60" width="60" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_a_d_i_t_y_a_.02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_a_d_i_t_y_a_.02/" height="60" width="60" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adityaomsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adityaomsharma21" height="60" width="60" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/adityaomsharma2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityaomsharma2004/" height="60" width="60" /></a>
+<pre>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adityasharma0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adityasharma0001/" height="60" width="60" /></a>  
+
+  <a href="https://instagram.com/https://www.instagram.com/_a_d_i_t_y_a_.02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_a_d_i_t_y_a_.02/" height="60" width="60" /></a>
+
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adityaomsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adityaomsharma21" height="60" width="60" /></a>
+
+  <a href="https://www.leetcode.com/https://leetcode.com/adityaomsharma2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityaomsharma2004/" height="60" width="60" /></a>
+<pre>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
