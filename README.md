@@ -24,13 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <pre>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adityasharma0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adityasharma0001/" height="60" width="60" /></a>  
-
-  <a href="https://instagram.com/https://www.instagram.com/_a_d_i_t_y_a_.02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_a_d_i_t_y_a_.02/" height="60" width="60" /></a>
-
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adityaomsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adityaomsharma21" height="60" width="60" /></a>
-
-  <a href="https://www.leetcode.com/https://leetcode.com/adityaomsharma2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityaomsharma2004/" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adityasharma0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adityasharma0001/" height="60" width="60" /></a>  <a href="https://instagram.com/https://www.instagram.com/_a_d_i_t_y_a_.02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_a_d_i_t_y_a_.02/" height="60" width="60" /></a>  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adityaomsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adityaomsharma21" height="60" width="60" /></a>  <a href="https://www.leetcode.com/https://leetcode.com/adityaomsharma2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityaomsharma2004/" height="60" width="60" /></a>
 <pre>  
 </p>
 
