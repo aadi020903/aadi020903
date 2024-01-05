@@ -2,7 +2,7 @@
 <h1 align="center">Hey!👋 I am Aditya Sharma🖤</h1>
 <h3 align="center">✨A passionate 🖥️ MERN Stack Developer 🖥️ from India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
 
@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **Socket.io || Object Relation Mapping || react**
 
-- 👨‍💻 All of my projects are available at [https://aadi020903.github.io/Aditya_Sharma/](https://aadi020903.github.io/Aditya_Sharma/)
-
 - 💬 Ask me about **NodeJs || Java || MySql || MongoDB**
 
 - 📫 How to reach me **adityaomsharma2004@gmail.com**
 
-- 📄 Know about my experiences [https://storage.rxresu.me/clp9g0gvkdb1y9hunk222k65m/resumes/clp9krp7f0dtdqo5q5ziibvoy.pdf](https://storage.rxresu.me/clp9g0gvkdb1y9hunk222k65m/resumes/clp9krp7f0dtdqo5q5ziibvoy.pdf)
+- 📄 Know about my experiences [Here](https://storage.rxresu.me/clp9g0gvkdb1y9hunk222k65m/resumes/clp9krp7f0dtdqo5q5ziibvoy.pdf)
 
 - ⚡ Fun fact **"Meet the coding maestro – a leader fueled by fiery code and a heart that orchestrates kindness in binary beats!"**
 
@@ -35,20 +33,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-</div>
+
 
 ###
 
