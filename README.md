@@ -42,7 +42,7 @@
   </div>
   <br>
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi020903&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="185" alt="stats graph" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadi020903&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="185" alt="stats graph" style="margin-right: 40px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi020903&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="185" alt="languages graph" />
 </div>
 
