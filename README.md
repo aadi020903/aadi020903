@@ -34,7 +34,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi020903&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Argonaut&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadi020903&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi020903&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aadi020903&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -45,7 +45,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aadi020903/aadi020903/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aadi020903/aadi020903/master/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
 
