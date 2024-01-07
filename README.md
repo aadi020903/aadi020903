@@ -38,7 +38,7 @@
 <h3 align="center">🔥 My Stats 🔥</h3>
 <br>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=aadi020903&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&card_width=450&order=2" height="200" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=aadi020903&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&card_width=550&order=2" height="200" alt="streak graph"  />
   </div>
   <br>
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
