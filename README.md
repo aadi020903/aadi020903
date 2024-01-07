@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **"Meet the coding maestro – a leader fueled by fiery code and a heart that orchestrates kindness in binary beats!"**
 <br>
+<h3 align="left">My Socials📱📶</h3>
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -33,8 +35,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 </div>
 <br>
+<h3 align="center">🔥 My Stats 🔥</h3>
+<br>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=aadi020903&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&card_width=380&order=2" height="200" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=aadi020903&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&card_width=450&order=2" height="200" alt="streak graph"  />
   </div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadi020903&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -51,7 +55,9 @@
 
 
 ###
-
+<br>
+<h3 align="center">Unleashing my talents🧿 </h3>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
