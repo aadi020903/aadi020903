@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **NodeJs || Java || MySql || MongoDB**
 
-- 📫 How to reach me **adityaomsharma2004@gmail.com**
+- 📥 How to reach me **adityaomsharma2004@gmail.com**
 
 - 📄 Know about my experiences [From Here](https://storage.rxresu.me/clp9g0gvkdb1y9hunk222k65m/resumes/clp9krp7f0dtdqo5q5ziibvoy.pdf)
 
