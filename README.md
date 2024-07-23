@@ -14,7 +14,7 @@
 
 - 📥 How to reach me **adityaomsharma2004@gmail.com**
 
-- 📄 Know about my experiences [From Here](https://storage.rxresu.me/clp9g0gvkdb1y9hunk222k65m/resumes/clp9krp7f0dtdqo5q5ziibvoy.pdf)
+- 📃 Know about my experiences [From Here](https://storage.rxresu.me/clp9g0gvkdb1y9hunk222k65m/resumes/clp9krp7f0dtdqo5q5ziibvoy.pdf)
 
 - ⚡ Fun fact **"Meet the coding maestro – a leader fueled by fiery code and a heart that orchestrates kindness in binary beats!"**
 <br>
