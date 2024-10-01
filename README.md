@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
 
-- 🔭 I’m currently working on ⌨️ **NodeJs||NextJs**
+- 🔭 I’m currently working on ⌨️ **NodeJs || NextJs**
 
 - 🌱 I’m currently learning **Socket.io || Object Relation Mapping || react**
 
