@@ -1,11 +1,11 @@
-<h1 align="center">Hey there! 👋 I'm Aditya Sharma 🖤</h1>
+<h1 align="center">Hey there! 👋 I'm Aditya 🖤</h1>
 <h3 align="center">
   ✨ <span style="color:#ff5722; font-weight:bold; font-size: 1.5em;">
     <span class="typing" data-typed-items="Passionate, Innovative, Creative">Passionate</span>
   </span> Full Stack Developer and Dynamic Engineering Leader from India 🇮🇳
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
+<img align="center" alt="coding" width="700" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 <h3 align="center">🚀 Connect with Me 🚀</h3>
-<p align="center">
+<p align="center" style="display: flex; gap: 15px;">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter"/></a>
   <a href="https://discordapp.com/users/your-discord" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord"/></a>
@@ -70,4 +70,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" />
+</p>
+
+---
+
+<!-- Snake animation for GitHub contributions -->
+<!-- <img src="https://raw.githubusercontent.com/aadi020903/aadi020903/output/github-contribution-grid
