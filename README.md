@@ -17,7 +17,7 @@
 - 📬 **Reach Me:** **adityaomsharma2004@gmail.com**
 - 📃 [**View My Experiences**](https://drive.google.com/file/d/1mWdtiszO0h30UAPUVBjdUOleooPVms15/view?usp=drive_link)
 
-> ⚡ **Fun Fact:** _"Meet the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"_ >_
+> ⚡ **Fun Fact:** _"Meet the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"_ _>
 
 ---
 
