@@ -6,7 +6,6 @@
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
----
 
 - 🔭 **Current Focus:** Crafting dynamic projects with **Node.js** and **Next.js**
 - 🌱 **Expanding Skills:** Exploring **Socket.io**, **Object-Relational Mapping**, and **React**
