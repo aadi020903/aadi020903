@@ -1,4 +1,4 @@
-<h1 align="center"> > _Hey there!👋_ I'm Aditya Sharma 🖤</h1>
+<h1 align="center"> Hey there!👋 I'm Aditya Sharma 🖤</h1>
 <h2 align="center">
    🇮🇳<span style="color:#ff5722; font-weight:bold; font-size: 1.5em;">
     <span class="typing" data-typed-items="Passionate, Innovative, Creative">Passionate</span>
