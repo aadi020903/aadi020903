@@ -1,11 +1,11 @@
-<h1 align="center">Hey there! 👋 I'm Aditya 🖤</h1>
-<h3 align="center">
+<h2 align="center">Hey there! 👋 I'm Aditya 🖤</h2>
+<h4 align="center">
   ✨ <span style="color:#ff5722; font-weight:bold; font-size: 1.5em;">
     <span class="typing" data-typed-items="Passionate, Innovative, Creative">Passionate</span>
-  </span> Full Stack Developer and Dynamic Engineering Leader from India 🇮🇳
-</h3>
+  </span> Full Stack Developer from India 🇮🇳
+</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
 
 
 ---
@@ -18,10 +18,10 @@
 - 📃 [**View My Experiences**](https://drive.google.com/file/d/1mWdtiszO0h30UAPUVBjdUOleooPVms15/view?usp=drive_link)
 
 > ⚡ **Fun Fact:** _"Meet the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"_
-
+>
 ---
 
-<h3 align="center">🚀 Connect with Me 🚀</h3>
+<h4 align="center">🚀 Connect with Me 🚀</h4>
 <p align="center" style="display: flex; gap: 15px;">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter"/></a>
