@@ -1,4 +1,4 @@
-<h1 align="center"> _Hey there!👋_ I'm Aditya Sharma 🖤</h1>
+<h1 align="center"> > _Hey there!👋_ I'm Aditya Sharma 🖤</h1>
 <h2 align="center">
    🇮🇳<span style="color:#ff5722; font-weight:bold; font-size: 1.5em;">
     <span class="typing" data-typed-items="Passionate, Innovative, Creative">Passionate</span>
@@ -18,7 +18,7 @@
 - 📃 [**View My Experiences**](https://drive.google.com/file/d/1mWdtiszO0h30UAPUVBjdUOleooPVms15/view?usp=drive_link)
 
 > ⚡ **Fun Fact:** _"Meet the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"_
-<
+
 
 ---
 
