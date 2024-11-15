@@ -25,13 +25,13 @@
 
 <h2 align="center">🚀 Connect with Me 🚀</h2>
 <p align="center" style="display: flex; gap: 15px;">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/></a> 
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter"/></a>
-  <a href="https://discordapp.com/users/your-discord" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord"/></a>
-  <a href="https://youtube.com/your-youtube" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube"/></a>
-  <a href="mailto:adityaomsharma2004@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail"/></a>
-  <a href="https://instagram.com/your-instagram" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram"/></a>
-  <a href="https://dribbble.com/your-dribbble" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="40" height="40" alt="Dribbble"/></a>
+   <a href="https://discordapp.com/users/your-discord" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord"/></a>
+   <a href="https://youtube.com/your-youtube" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube"/></a>
+   <a href="mailto:adityaomsharma2004@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail"/></a>
+   <a href="https://instagram.com/your-instagram" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram"/></a>
+   <a href="https://dribbble.com/your-dribbble" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="40" height="40" alt="Dribbble"/></a>
 </p>
 
 ---
