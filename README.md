@@ -5,7 +5,7 @@
   </span> Full Stack Developer from India 🇮🇳
 </h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
+<p align="center" width="200"> <img src="https://komarev.com/ghpvc/?username=aadi020903&label=Profile%20views&color=0e75b6&style=flat" alt="aadi020903" /> </p>
 
 
 ---
