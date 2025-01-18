@@ -38,7 +38,8 @@
 
 <h2 align="center">📈 My GitHub Stats 📈</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aadi020903&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&card_width=500&order=2" height="200" alt="streak graph" />
+  
+<img src="https://streak-stats.demolab.com?user=aadi020903&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&card_width=500&order=2" height="200" alt="streak graph" />
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aadi020903&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=400" height="180" alt="GitHub Stats" />
