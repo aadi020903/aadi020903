@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there!👋👀  </h1>
 <h1 align="center">🖤 I am Aditya Sharma 🖤</h1>
 <h2 align="center">
-🇮🇳🚩 <span style="color:#ff5722; font-weight:bold; font-size: 1.5em;">
+🇮🇳🚩<span style="color:#ff5722; font-weight:bold; font-size: 1.5em;">
     <span class="typing" data-typed-items="Passionate, Innovative, Creative">Passionate</span>
   </span> Full Stack Developer from India  🇮🇳🚩
 </h2>
